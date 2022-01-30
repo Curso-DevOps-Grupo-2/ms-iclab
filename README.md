@@ -1,5 +1,7 @@
 # Getting Started
 
+## Linea para distinguir entre main y feature (feature/feature-estadomundial)
+
 ## Windows
 
 ### Compile Code
